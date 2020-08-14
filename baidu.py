@@ -1,6 +1,7 @@
 
 #! usr/bin/env python
 # 百度demo
+import os
 from selenium import webdriver
 import time
 from selenium.webdriver.common.keys import Keys
